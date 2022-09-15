@@ -1,5 +1,9 @@
-# Desafio Database
+# Desafio log_in Formulario
 ## Dependencias
+>>connect-mongo\
+>>bcrypt\
+>>express-session\
+>>mongoose\
 >>nodemon\
 >>express\
 >>express-handlebars\
