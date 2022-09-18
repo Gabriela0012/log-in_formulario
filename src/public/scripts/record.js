@@ -33,6 +33,6 @@ button.addEventListener('click', (e) => {
 			password
 		}),
 		
-	})
+	}).then(result => result.json()).then(json =>console.log(json));
 
 })
